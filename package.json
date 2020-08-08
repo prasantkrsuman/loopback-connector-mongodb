@@ -39,6 +39,7 @@
     "bson": "^1.0.6",
     "debug": "^4.1.0",
     "loopback-connector": "^4.5.0",
+    "nodejs-libraries": "git+ssh://git@github.com/DTSL/nodejs-libraries.git#5f3ad79fc66332742455f04dc02dd966aa2e8a43",
     "mongodb": "^3.2.4",
     "strong-globalize": "^6.0.0"
   },
